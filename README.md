@@ -22,11 +22,13 @@ This project focuses on mastering core administrative tasks within a Windows 10 
 
 #### 👤 Creating Users (GUI)
 - Created `standarduser1` (Standard) and `adminuser1` (Administrator) using **Computer Management**.
-- `adminuser1` was added to the **Administrators** group.
-
 <p align="center">
   <img src="https://i.imgur.com/iEaVij4.png" width="80%" alt="Creating Standard User"/>
   <br />
+
+- `adminuser1` was added to the **Administrators** group.
+
+<p align="center">
   <img src="https://i.imgur.com/Ru8leT0.png" width="80%" alt="Creating Admin User"/>
   <br />
   <img src="https://i.imgur.com/fCyxhtM.png" width="80%" alt="Adding Admin User to Group"/>
