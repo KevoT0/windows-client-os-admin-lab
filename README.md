@@ -91,12 +91,15 @@ This project focuses on mastering core administrative tasks within a Windows 10 
 - `standarduser1`:
   - ✅ Access to `Public`
   - ❌ Denied access to `Private`
+
+ <p align="center">
+  <img src="https://i.imgur.com/MhGqm9u.png" width="80%" alt="Access Denied to Private Folder"/>
+ </p>
+
 - `adminuser1`:
   - ✅ Full access to both
 
 <p align="center">
-  <img src="https://i.imgur.com/MhGqm9u.png" width="80%" alt="Access Denied to Private Folder"/>
-  <br />
   <img src="https://i.imgur.com/50q25Q2.png" width="80%" alt="Admin User Full Access"/>
 </p>
 
