@@ -76,11 +76,14 @@ This project focuses on mastering core administrative tasks within a Windows 10 
 
 #### 🛠️ Setting NTFS Permissions
 - Gave `standarduser1` **Modify & Write** permissions on `SharedData`.
-- Assigned `adminuser1` **Full Control** on `Private`, and **disabled inheritance** to restrict `standarduser1`.
 
 <p align="center">
   <img src="https://i.imgur.com/8F6OcMb.png" width="80%" alt="Setting SharedData Permissions"/>
-  <br />
+</p>
+  
+- Assigned `adminuser1` **Full Control** on `Private`, and **disabled inheritance** to restrict `standarduser1`.
+
+<p align="center">
   <img src="https://i.imgur.com/PqMYQyW.png" width="80%" alt="Disabling Inheritance on Private Folder"/>
 </p>
 
