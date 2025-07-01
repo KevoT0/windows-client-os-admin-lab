@@ -144,12 +144,3 @@ This project focuses on mastering core administrative tasks within a Windows 10 
 All demonstrations are supported with screenshots for verification and educational reference. Scroll through the above sections or refer to the `images/` folder (if cloned locally).
 
 ---
-
-## 🚀 Future Enhancements
-
-- Integrate PowerShell automation for user/group management and permission configuration.
-- Explore BitLocker and encryption settings.
-- Expand to multi-user scenarios and remote administration.
-
----
-
