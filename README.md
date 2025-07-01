@@ -54,8 +54,6 @@ This project focuses on mastering core administrative tasks within a Windows 10 
   - Deleting accounts
 
 <p align="center">
-  <img src="https://i.imgur.com/Svy0BqV.png" width="80%" alt="Creating User via CMD"/>
-  <br />
   <img src="https://i.imgur.com/zeyya4j.png" width="80%" alt="CMD Group Management"/>
 </p>
 
