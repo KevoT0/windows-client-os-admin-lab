@@ -1,6 +1,3 @@
-# yoyoyoyo
-
-
 # 🖥️ Windows Client OS Administration (Module 1)
 
 ## 📋 Project Description
