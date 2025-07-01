@@ -31,6 +31,7 @@ This project focuses on mastering core administrative tasks within a Windows 10 
 <p align="center">
   <img src="https://i.imgur.com/Ru8leT0.png" width="80%" alt="Creating Admin User"/>
   <br />
+  
   <img src="https://i.imgur.com/fCyxhtM.png" width="80%" alt="Adding Admin User to Group"/>
 </p>
 
