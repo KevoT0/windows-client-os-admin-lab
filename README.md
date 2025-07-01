@@ -42,8 +42,6 @@ This project focuses on mastering core administrative tasks within a Windows 10 
   <img src="https://i.imgur.com/HumZ3OV.png" width="80%" alt="User Login Options"/>
   <br />
   <img src="https://i.imgur.com/rkFaNEy.png" width="80%" alt="Standard User UAC Prompt"/>
-  <br />
-  <img src="https://i.imgur.com/pChFZZF.png" width="80%" alt="Admin User UAC Prompt"/>
 </p>
 
 - **Administrator user** had full access without UAC interruption.
